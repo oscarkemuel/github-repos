@@ -8,7 +8,7 @@ export default function Routes() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/github-repos" exact component={Main} />
+        <Route path="/" exact component={Main} />
         <Route path="/repository/:repository" component={Repository} />
       </Switch>
     </BrowserRouter>
