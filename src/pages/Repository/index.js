@@ -58,7 +58,7 @@ export default class Repository extends Component {
     return (
       <Container>
         <Main>
-          <Link to="/github-repos" className="link-button"><FaArrowLeft size={15} />VOLTAR</Link>
+          <Link to="/" className="link-button"><FaArrowLeft size={15} />VOLTAR</Link>
           <a
             className="link-button"
             href={repo.html_url}
