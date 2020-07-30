@@ -1,5 +1,5 @@
 <h1 align="center">GITHUB-REPOS</h1>
-<p align="center">Você pode testar em: <a forget="_blank" href="https://oscarel.github.io/github-repos/">oscarel.github.io/github-repos/</a></p>
+<p align="center">Você pode testar em: <a target="_blank" href="https://oscarel.github.io/github-repos/">oscarel.github.io/github-repos/</a></p>
 <p align="center">Aplicação <strong>GITHUB-REPOS</strong> desenvolvida para facilitar o trabalho na hora de visualizar repositórios de um usuário do github</p>
   
 <h3 align="center">Algumas imagens da aplicação:</h3>
