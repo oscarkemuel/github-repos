@@ -26,6 +26,3 @@
 * react-scripts
 * react-router-dom
 * styled-components
-* @testing-library/react
-* @testing-library/jest-dom
-* @testing-library/user-event
